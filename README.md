@@ -1,5 +1,5 @@
 # sinusoidal_chart_app
-builds dynamic graph of a sinusoidal signal, a user can change apmplitude and frequency, can save it as image, open the image and close it in the app, can save data into txt file, can also open the file for reading in the app, zoom in zoom out the graph by mousewheel.
+builds dynamic graph of a sinusoidal signal, a user can change apmplitude and frequency, can save it as image, open the image and close it in the app, can save data to txt file, can also open the file for reading in the app, zoom in zoom out the graph by mousewheel.
 
 
 ![App_photo](app_photo.png)
